@@ -1,0 +1,131 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "this work !",
+      "author": "sirjan"
+    },
+    {
+      "id": 2,
+      "quote": "wow awesome !",
+      "author": "suraj"
+    },
+    {
+      "id": 3,
+      "quote": "oh my good !",
+      "author": "kumar"
+    },
+    {
+      "author": "manish",
+      "quote": "what a coding level !!!",
+      "id": 4
+    },
+    {
+      "author": "sanji",
+      "quote": "yes amazing coding level",
+      "id": 5
+    },
+    {
+      "author": "sanji",
+      "quote": "yes amazing coding level",
+      "id": 6
+    },
+    {
+      "author": "sandesh",
+      "quote": "who read this !!",
+      "id": 299
+    },
+    {
+      "author": "sandesh",
+      "quote": "who read this !!",
+      "id": 135
+    },
+    {
+      "author": "manoj",
+      "quote": "good quote!!!",
+      "id": 114
+    },
+    {
+      "author": "sandesh",
+      "quote": "okz",
+      "id": 40
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "this is awesome comment",
+      "quote": 2
+    },
+    {
+      "id": 2,
+      "text": "not bad",
+      "quote": 2
+    },
+    {
+      "text": "wow",
+      "quote": "2",
+      "id": 3
+    },
+    {
+      "text": "wow",
+      "quote": "2",
+      "id": 4
+    },
+    {
+      "text": "wow",
+      "quote": "2",
+      "id": 5
+    },
+    {
+      "text": "once again wow",
+      "quote": "2",
+      "id": 6
+    },
+    {
+      "text": "once again again",
+      "quote": "2",
+      "id": 7
+    },
+    {
+      "text": "nice",
+      "quote": "2",
+      "id": 8
+    },
+    {
+      "text": "nice gain",
+      "quote": "2",
+      "id": 9
+    },
+    {
+      "text": "nice gain",
+      "quote": "2",
+      "id": 10
+    },
+    {
+      "text": "nice gain",
+      "quote": "2",
+      "id": 11
+    },
+    {
+      "text": "nice work",
+      "quote": "2",
+      "id": 12
+    },
+    {
+      "text": "nice work",
+      "quote": "2",
+      "id": 13
+    },
+    {
+      "text": "something wrong",
+      "quote": "299",
+      "id": 16
+    },
+    {
+      "text": "good ok",
+      "quote": "299",
+      "id": 17
+    }
+  ]
+}
